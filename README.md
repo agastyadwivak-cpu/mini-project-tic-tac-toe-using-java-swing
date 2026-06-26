@@ -1,4 +1,4 @@
-# Game Tic-Tac-Toe Sederhana dengan Java Swing, Login, dan Statistik
+# mini project tic tac toe using java Swing and GUI
 
 
 **Nama:** I Made Agastya Dwiva Kriswana  
