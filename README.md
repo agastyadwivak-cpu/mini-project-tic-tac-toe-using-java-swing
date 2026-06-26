@@ -224,15 +224,9 @@ Menampilkan lima pemain dengan skor tertinggi menggunakan JTable.
 
 ---
 
-## Link GitHub
-
-Masukkan link repository GitHub di sini.
-
----
-
 ## Link Video YouTube
 
-Masukkan link video demonstrasi di sini.
+(https://youtu.be/egeeP2NHL1w)
 
 ---
 
